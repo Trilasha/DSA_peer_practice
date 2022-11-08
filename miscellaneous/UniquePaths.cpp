@@ -1,12 +1,6 @@
 class Solution {
 public:
-    // int factorial(int n)
-    // {
-    //     int ans=1;
-    //     for(int i=n;i>=1;--i)
-    //     ans*=i;
-    //     return ans;
-    // }
+    //solved using combination
     
     //both long long & double are being accepted
     //even changed the return type to ll and double --> it got accepted
